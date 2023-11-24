@@ -5,7 +5,7 @@ Godot 4.2 Benchmark/Demo - FSR 2.2
 
 <p><strong>English:</strong></p>
 
-<p name="english">Godot 42 is a small demo/benchmark that will allow you to test the performance of your PC and test the operation of the new Godot 4.2 optimizations that use AMD's Open Source FidelityFX&trade; Super Resolution 2.2 (FSR 2.2) technology.</p>
+<p name="english">Godot 42 is a small demo/benchmark that will allow you to test the performance of your PC and test the new Godot 4.2 features and optimizations that use AMD's Open Source FidelityFX&trade; Super Resolution 2.2 (FSR 2.2) technology.</p>
 
 You can download the Linux, Windows and Mac builds on Itch:
 
