@@ -13,26 +13,46 @@ You can download the Linux, Windows and Mac builds on Itch:
 
 
 ## Credits
+### Created by*
+**IcterusGames**
 
-*Mustang GT Fastback model by:*
+[https://twitter.com/icterusgames](https://twitter.com/icterusgames)
+[https://icterusgames.itch.io](https://icterusgames.itch.io)
+
+### Produced by
+**Rafa Laguna**
+
+[https://twitter.com/rafalagoon](https://twitter.com/rafalagoon])
+[https://youtube.com/@rafalagoon](https://youtube.com/@rafalagoon)
+[https://twitch.tv/rafalagoon](https://twitch.tv/rafalagoon)
+
+### Todogodot
+[https://youtube.com/@todogodot](https://youtube.com/@todogodot)
+
+### Mustang GT Fastback model by:
 **Adam T. Ryder**
+
 [https://www.blendswap.com/blend/16609](https://www.blendswap.com/blend/16609)
 
-*Misc tools models by:*
+### Misc tools models by:
 **daren**
+
 [https://blendswap.com/blend/2878](https://blendswap.com/blend/2878)
+
 **ivarvanleeuwen**
+
 [https://blendswap.com/blend/29136](https://blendswap.com/blend/29136)
 [https://blendswap.com/blend/29135](https://blendswap.com/blend/29135)
 
-*Garage model and extras by:*
+### Garage model and extras by:
 **IcterusGames. Creative Commons By CC BY 4.0**  
 
-
-*Textures from:*
+### Textures from:
 **PolyHaven**
+
 [https://polyhaven.com](https://polyhaven.com)
 
+<hr />
 
 <p><strong>Español:</strong></p>
 
@@ -42,22 +62,43 @@ You can download the Linux, Windows and Mac builds on Itch:
 
 ## Créditos
 
-*Modelo Mustang GT Fastback por:*
+### Creado por
+**IcterusGames**
+
+[https://twitter.com/icterusgames](https://twitter.com/icterusgames)
+[https://icterusgames.itch.io](https://icterusgames.itch.io)
+
+### Producido por
+**Rafa Laguna**
+
+[https://twitter.com/rafalagoon](https://twitter.com/rafalagoon])
+[https://youtube.com/@rafalagoon](https://youtube.com/@rafalagoon)
+[https://twitch.tv/rafalagoon](https://twitch.tv/rafalagoon)
+
+### Todogodot
+[https://youtube.com/@todogodot](https://youtube.com/@todogodot)
+
+## Assets
+### Modelo Mustang GT Fastback por:
 **Adam T. Ryder**
+
 [https://www.blendswap.com/blend/16609](https://www.blendswap.com/blend/16609)
 
-*Algunos de los modelos de herramientas:*
+### Algunos de los modelos de herramientas:
 **daren**
+
 [https://blendswap.com/blend/2878](https://blendswap.com/blend/2878)
+
 **ivarvanleeuwen**
+
 [https://blendswap.com/blend/29136](https://blendswap.com/blend/29136)
 [https://blendswap.com/blend/29135](https://blendswap.com/blend/29135)
 
-*Model del garaje y otros elementos por:*
+### Model del garaje, logo neón de Godot y otros elementos por:
 **IcterusGames. Creative Commons By CC BY 4.0**  
 
-
-*Texturas de:*
+### Texturas de:
 **PolyHaven**
+
 [https://polyhaven.com](https://polyhaven.com)
 
